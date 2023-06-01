@@ -1,6 +1,5 @@
 <body class="main">
     <footer>
-
         <section class="content my-5">
             <div class="quick-links">
                 <ul>
